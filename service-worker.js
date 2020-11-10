@@ -1,4 +1,4 @@
-let cacheName = "OpenGithubPWA";// 👈 any unique name
+let cacheName = "GCloud";// 👈 any unique name
 
 let filesToCache = [
   "/OpenPWA/", // 👈 your repository name , both slash are important
